@@ -2,4 +2,4 @@ test: test1
 eureka:
   client:
     service-url:
-      default-zone: http://localhost:8769/eureka/
+      default-zone: http://localhost:8763/eureka/
